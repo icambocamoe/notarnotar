@@ -1,10 +1,10 @@
 <?php
      $dbhost = 'localhost';
-     $dbuser = 'id17453766_jeju';
-     $dbpass = 'YJS!YekPbnoMG48^';
-     $db = "id17453766_empresa";
+     $dbuser = 'root';
+     $dbpass = 'root';
+     $db = "empresa";
      $conn = mysqli_connect($dbhost, $dbuser, $dbpass,$db);
-     
+
 /*$sname= "localhost";
 $unmae= "root";
 $password = "";
